@@ -1,0 +1,10 @@
+imgs_cat/0181.jpg
+imgs_cat/0068.jpg
+imgs_cat/0193.jpg
+imgs_dog/0123.jpg
+imgs_cat/0109.jpg
+imgs_dog/0109.jpg
+imgs_cat/0200.jpg
+imgs_dog/0067.jpg
+imgs_dog/0123.jpg
+imgs_wolf/0185.jpg
